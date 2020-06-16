@@ -1,2 +1,2 @@
 # Web
-Just Some training
+Just Some exercise about web
